@@ -15,7 +15,7 @@
 
 
 <h2 align="center">Facultad</h2>
-https://github.com/tomaspaoletti00/Orientacion-a-Objetos-1
+
 <div align="center">
     <h3>Materias</h3>
     <a href="https://github.com/tomaspaoletti00/Ing-Software-1">
