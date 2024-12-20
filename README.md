@@ -2,9 +2,9 @@
 <p align="center">
   <img align="center" src="https://media1.tenor.com/m/bvoyWJqcwsIAAAAd/john-mayer.gif"/>
 </p>
-<h4 align="center">Soy Tomás Paoletti, estudiante de "Licenciatura en Informatica" en la UNLP. A veces músico, cantante, guitarrista. :P  </h4>
+<h4 align="center">Soy Tomás Paoletti, estudiante de "Licenciatura en Informatica" en la UNLP. :P  </h4>
 
-- 📫 Informacion de contacto **tomaspaoletti09@gmail.com**
+- 📫 CONTACTO: **tomaspaoletti09@gmail.com**
 
   </div>
 
@@ -33,7 +33,13 @@
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p align="center" height="100px" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=vue-dark&hide_border=true"/></
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&count_priv"ate=true"/></
+<p align="center" height="100px" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=vue-dark&hide_border=true"/>
+</p>
+<p align="center" height="100px" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+</P>
+<p align="center" height="100px" >
+  <img src="https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&count_priv"ate=true"/>
+</P>
 
