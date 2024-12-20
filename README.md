@@ -13,7 +13,6 @@
 <a href="https://www.instagram.com/tomas.paoletti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomaspaoletti00" height="30" width="40" /></a>
 </p>
 
-
 <h2 align="center">Facultad</h2>
 
 <div align="center">
@@ -30,11 +29,11 @@
       </a>
  </div>
 
-![tomaspaoletti00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=vue-dark&hide_border=true)
+
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
 <p align="center" height="100px" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=vue-dark&hide_border=true"/></p>
-
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&show_icons=true&theme=dark" alt="tomaspaoletti00 :: Profile Stats" /></p>
+![tomaspaoletti00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![tomaspaoletti00's Stats](https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
