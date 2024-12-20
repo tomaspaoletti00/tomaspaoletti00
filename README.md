@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="10641209" data-share-method="host" data-aspect-ratio="2.08333" data-width="100%"><a href="https://tenor.com/view/john-mayer-johnmayer-guitar-gif-10641209">John Mayer GIF</a>from <a href="https://tenor.com/search/john-gifs">John GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img align="center" src="https://tenor.com/es-419/view/john-mayer-johnmayer-guitar-gif-10641209"/>
 </p>
 <h4 align="center">Soy Tomás Paoletti, estudiante de "Licenciatura en Informatica/Analista En Sistemas" en la UNLP. A veces músico, cantante o guitarrista. :P  </h4>
 
