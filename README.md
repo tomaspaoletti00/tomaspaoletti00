@@ -33,13 +33,14 @@
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p align="center" height="100px" >
-  <img src="https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+<p align="center" height="100px">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="400px" />
 </p>
-<p align="center" height="100px" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=midnight-purple&hide_border=true"/>
-</P>
-<p align="center" height="100px" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-</P>
+<p align="center" height="100px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=midnight-purple&hide_border=true" width="400px" />
+</p>
+<p align="center" height="100px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="400px" />
+</p>
+
 
