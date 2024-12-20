@@ -15,7 +15,7 @@
 
 
 <h2 align="center">Facultad</h2>
-
+https://github.com/tomaspaoletti00/Orientacion-a-Objetos-1
 <div align="center">
     <h3>Materias</h3>
     <a href="https://github.com/tomaspaoletti00/Ing-Software-1">
@@ -23,6 +23,9 @@
     </a>  
     <a href="https://github.com/tomaspaoletti00/DBD">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=tomaspaoletti00&repo=DBD&theme=dark" />
+    </a> 
+  <a href="https://github.com/tomaspaoletti00/Orientacion-a-Objetos-1">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=tomaspaoletti00&repo=Orientacion-a-Objetos-1&theme=dark" />
     </a> 
       </a>
  </div>
