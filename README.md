@@ -33,7 +33,7 @@
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p align="center" height="100px" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=vue-dark&hide_border=true"/></p>
-![tomaspaoletti00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![tomaspaoletti00's Stats](https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center" height="100px" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=vue-dark&hide_border=true"/></
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&count_priv"ate=true"/></
 
