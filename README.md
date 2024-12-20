@@ -23,7 +23,7 @@
     <a href="https://github.com/tomaspaoletti00/DBD">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=tomaspaoletti00&repo=DBD&theme=dark" />
     </a> 
-  <a href="https://github.com/tomaspaoletti00/Orientacion-a-Objetos-1">
+    <a href="https://github.com/tomaspaoletti00/Orientacion-a-Objetos-1">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=tomaspaoletti00&repo=Orientacion-a-Objetos-1&theme=dark" />
     </a> 
       </a>
@@ -34,12 +34,12 @@
 <h2 align="center">Github Stats :bar_chart:</h2>
 
 <p align="center" height="100px" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=vue-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 </p>
 <p align="center" height="100px" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomaspaoletti00&theme=midnight-purple&hide_border=true"/>
 </P>
 <p align="center" height="100px" >
-  <img src="https://github-readme-stats.vercel.app/api?username=tomaspaoletti00&theme=vue-dark&show_icons=true&hide_border=true&count_priv"ate=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspaoletti00&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </P>
 
