@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" src="https://media1.tenor.com/m/bvoyWJqcwsIAAAAd/john-mayer.gif"/>
 </p>
-<h4 align="center">Soy Tomás Paoletti, estudiante de "Licenciatura en Informatica/Analista En Sistemas" en la UNLP. A veces músico, cantante o guitarrista. :P  </h4>
+<h4 align="center">Soy Tomás Paoletti, estudiante de "Licenciatura en Informatica" y "Analista en Sistemas" en la UNLP. A veces músico, cantante o guitarrista. :P  </h4>
 
 - 📫 Informacion de contacto **tomaspaoletti09@gmail.com**
 
