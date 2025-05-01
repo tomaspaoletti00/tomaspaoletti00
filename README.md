@@ -29,6 +29,16 @@
       </a>
  </div>
 
+ <h2 align="center">Proyectos</h2>
+
+<div align="center">
+    <h3>-</h3>
+    <a href="https://github.com/tomaspaoletti00/Ing-Software-1">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=tomaspaoletti00&repo=sistema_alquileres&theme=dark" />
+    </a>
+      </a>
+ </div>
+
 
 
 <h2 align="center">Github Stats :bar_chart:</h2>
