@@ -33,7 +33,7 @@
 
 <div align="center">
     <h3>-</h3>
-    <a href="https://github.com/tomaspaoletti00/Ing-Software-1">
+    <a href="https://github.com/tomaspaoletti00/sistema_alquileres">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=tomaspaoletti00&repo=sistema_alquileres&theme=dark" />
     </a>
       </a>
