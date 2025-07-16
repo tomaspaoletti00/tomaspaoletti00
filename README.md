@@ -26,6 +26,9 @@
     <a href="https://github.com/tomaspaoletti00/Orientacion-a-Objetos-1">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=tomaspaoletti00&repo=Orientacion-a-Objetos-1&theme=dark" />
     </a> 
+      <a href="https://github.com/tomaspaoletti00/sistema_alquileres">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=tomaspaoletti00&repo=sistema_alquileres&theme=dark" />
+    </a> 
       </a>
  </div>
 
